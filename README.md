@@ -13,11 +13,10 @@
 (2024.01.29 ~ 2024.09.06) 2024 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 양성과정 참여중 
 <div align=center><h1>💻 Projects</h1></div>
 
-<div align=center><h1>📝 Language and certificates</h1></div>
+<div align=center><h1>:raised_hands: Todat</h1></div>
 
-<div align=center><h1> Language and certificates</h1></div>
-<div align=center>
-# :mailbox_with_mail: Contacts
+<div align=center><h1></h1></div>
+
 
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeily0627&count_bg=%23E4CDF6&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
