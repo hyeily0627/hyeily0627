@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=OH%20HYE%20JIN&fontSize=90)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeily0627&count_bg=%23E4CDF6&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+<div align=center>
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeily0627&count_bg=%23E4CDF6&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
