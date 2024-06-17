@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 <div align=center><h1>📚 Cowork tools </h1></div>
-  <img src="https://img.shields.io/badge/notion-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=linux&logoColor=black">
 
 <div align=center><h1>💼 Career</h1></div>
 ✅ (2020.01~06) 한국남동발전 연료조달부 
