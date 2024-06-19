@@ -46,7 +46,7 @@
 
 <div align=center> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeily0627&show_icons=true&theme=white-light&layout=compact)](https://github.com/hyeily0627/github-readme-stats)
-
+</div>
 
 <!--
 **hyeily0627/hyeily0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
