@@ -46,7 +46,7 @@
 
 <div> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeily0627&layout=compact&theme=omni"/>
-   <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=KimClick&show_icons=true&theme=omni"/>
 </div>
 
