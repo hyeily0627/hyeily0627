@@ -39,9 +39,9 @@
 <div align=center><h1>💻 Projects</h1></div>
 
 <div align=center> 🚨 미니프로젝트 - c# </div>
-1.wimform 네이버 화면 구현하기
-2.WPF + RPi 스마트 홈 온습도 시스템
-3.WPF 부산관광명소 검색 시스템
+<div align=center> 1. wimform 네이버 화면 구현하기 </div>
+<div align=center> 2. WPF + RPi 스마트 홈 온습도 시스템 </div>
+<div align=center> 3. WPF 부산관광명소 검색 시스템 </div>
 
 🚨 미니프로젝트 - HTML
 1.가상 스마트무인택배함 홈페이지(파이널 연계)
