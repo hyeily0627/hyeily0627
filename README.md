@@ -43,11 +43,12 @@
 <div align=center> 2. WPF + RPi 스마트 홈 온습도 시스템 </div>
 <div align=center> 3. WPF 부산관광명소 검색 시스템 </div>
 
-🚨 미니프로젝트 - HTML
-1.가상 스마트무인택배함 홈페이지(파이널 연계)
-2.개인 포트폴리오 페이지 
+<div align=center> 🚨 미니프로젝트 - HTML </div>
+<div align=center> 1.가상 스마트무인택배함 홈페이지(파이널 연계) </div>
+<div align=center> 2.개인 포트폴리오 페이지 </div>
 
-🚨 파이널 프로젝트 스마트 무인택배함 제작 
+<div align=center> 🚨 파이널 프로젝트 </div>
+<div align=center> 스마트 무인택배함 제작 </div>
 
 <!-- <div align=center><h1>:purple_heart: Today</h1></div> -->
 <div align=center><h1></h1></div>
