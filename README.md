@@ -57,9 +57,10 @@
 
 </div>
 
-<div> 
+<div align=left> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeily0627&layout=compact&theme=omni"/>
-
+</div>
+<div align=right>
   <img src="https://github-readme-stats.vercel.app/api?username=hyeily0627&show_icons=true&theme=omni"/>
 </div>
 
