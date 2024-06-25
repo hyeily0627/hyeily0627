@@ -38,7 +38,7 @@
 (2024.01.29 ~ 2024.09.06) 2024 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 양성과정 참여중 
 <div align=center><h1>💻 Projects</h1></div>
 
-<div align=center><h1> 🚨 미니프로젝트 - c# </h1></div>
+<div align=center><h2> 🚨 미니프로젝트 - c# </h2></div>
 1.wimform 네이버 화면 구현하기
 2.WPF + RPi 스마트 홈 온습도 시스템
 3.WPF 부산관광명소 검색 시스템
